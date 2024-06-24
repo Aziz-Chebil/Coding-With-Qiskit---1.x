@@ -1,7 +1,7 @@
 # Coding-With-Qiskit---1.x
 This repository contains Jupyter Notebooks I created when I took **the Coding With Qiskit - 1. x class on the Qiskit Youtube Channel.**
 
-I have to highlight that the original work corresponds to IBM members, in particular *Dr. Derek Wang* whom I enjoyed his videos about quantum computing.
+I'd like to highlight that the original work corresponds to IBM members, in particular *Dr. Derek Wang* whom I enjoyed his videos about quantum computing.
 
 The notebooks will give you a fundamental understanding of Qiskit, especially the new updates it received on version 1.0.
 To run these notebooks, you would need to install MiniConda (or Anaconda). 
